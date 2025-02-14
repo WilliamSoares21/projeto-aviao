@@ -114,8 +114,7 @@ def gera_dados_mes(mes):
 
 # Criando o nome do projeto e a sidebar
 st.sidebar.image(
-    'https://www.fazenda.niteroi.rj.gov.br/blog/wp-content/uploads/2023/01/banner-Gestao-de-Riscos-.jpg',
-    use_container_width=True)
+    'https://www.fazenda.niteroi.rj.gov.br/blog/wp-content/uploads/2023/01/banner-Gestao-de-Riscos-.jpg')
 st.sidebar.header('Gestão de riscos para aviação `Versão de Teste`')
 
 # Exibindo uma legenda para as classificações de riscos
