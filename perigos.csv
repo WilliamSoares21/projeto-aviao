@@ -1,0 +1,11 @@
+Categoria,Localização,Consequências,Risco
+Risco Inaceitável,Aeroporto de Congonhas,pequena,5
+Risco Tolerável e Análise de Benefício/Custo,Aeroporto de Brasília,insignificante ,2
+Risco Inaceitável,Aeroporto de Portugal ,Colisão de aeronaves em pista,9
+Risco Aceitável,Terminal de Passageiros,Deslizamento de pessoas em piso molhado,3
+Risco Tolerável e Análise de Benefício/Custo,Pátio de Manutenção,Falta de equipamentos de proteção individual,6
+Risco Inaceitável,Aeroporto de Buenos Aires,Mortes Múltiplas,8
+Risco Inaceitável,,,1
+Risco Aceitável,Pista de pouso do Aeroporto Fortaleza,Queda de funcionários na pita de pouso,2
+Risco Tolerável e Análise de Benefício/Custo,"Pinto Martins, pista de pouso",Derrapagem,3
+Risco Aceitável,área de desembarque,queda de passageiros,3
